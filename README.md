@@ -7,7 +7,7 @@ I'm currently a software engineer at [Uhray](https://uhray.com/) and formerly at
    
 ## ⚡️ A Little About Me
 
-* 🌱 I'm currently learning about <strong>Golang</strong>. <strong>Generative AI</strong>, and <strong>Web3</strong>
+* 🌱 I'm currently learning about <strong>Golang</strong>. <strong>Web3</strong>, and <strong>OpenAI</strong>
 * 👩🏻‍💻 Most of my projects are available on [Github](https://github.com/sharynneazhar)
 * 👩🏻‍🏫 I have mentored over 300+ students with [Udacity](https://www.udacity.com/)
 * 🗣️ Fun Fact: 한국어를 배우고 있어요
